@@ -1,0 +1,23 @@
+.conent{
+
+padding-top: 10px;
+}
+
+.row{
+padding-top: 20px;
+display: flex;
+gap: 20px;
+}
+
+mat-form-field{
+width: 100%;
+}
+
+.action{
+padding: 0px 25px 20px;
+
+}
+
+.action button{
+flex: 1;
+}

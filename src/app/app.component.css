@@ -1,0 +1,33 @@
+/* header css */
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+
+.my-table{
+margin: 0 auto;
+padding-top: 20px;
+max-width: 1248px;
+}
+
+.my-table mat-form-field
+{
+width: 100%;
+}
+
+.adjustButton{
+display: flex;
+gap: 2px;
+}

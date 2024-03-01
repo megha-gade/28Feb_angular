@@ -1,0 +1,64 @@
+{
+  "emp": [
+    {
+      "fname": "Yogesh",
+      "lname": "Surwade",
+      "email": "yog@gmail.com",
+      "dob": "2001-02-19T18:30:00.000Z",
+      "gender": "female",
+      "education": "Arts",
+      "company": "Consolt Mark",
+      "experience": 1,
+      "package": 2,
+      "id": "4edb"
+    },
+    {
+      "fname": "Radha",
+      "lname": "Jain",
+      "email": "radhajain@gmail.com",
+      "dob": "2011-02-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Commerse",
+      "company": "KoyalBharati",
+      "experience": 2,
+      "package": 5,
+      "id": "b55d"
+    },
+    {
+      "id": "644a",
+      "fname": "Megha",
+      "lname": "Gade",
+      "email": "megh@gmail.com",
+      "dob": "2024-02-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Bsc",
+      "company": "Kranta",
+      "experience": 1,
+      "package": 4
+    },
+    {
+      "id": "c14c",
+      "fname": "Sanchita",
+      "lname": "Korade",
+      "email": "sancitau@gmail.com",
+      "dob": "2016-02-24T18:30:00.000Z",
+      "gender": "female",
+      "education": "EXTC",
+      "company": "Kiyame Suns pvt lmt",
+      "experience": 0.8,
+      "package": 5.5
+    },
+    {
+      "id": "6731",
+      "fname": "Rutuja",
+      "lname": "karanje",
+      "email": "rutukaranje@gmail.com",
+      "dob": "2006-02-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Arts",
+      "company": "Sunar Private",
+      "experience": 3,
+      "package": 8.8
+    }
+  ]
+}
